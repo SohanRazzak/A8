@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "picture": "https://i.ibb.co/R6Gb3dn/Life-Straw-Water-Filter-1.jpg",
+    "title": "Clean Water For Everyone",
+    "category": "Health",
+    "category_bg": "#FF5733",
+    "card_bg": "#EFEFEF",
+    "text_color": "#333333",
+    "description": "Ensuring access to clean and safe drinking water is vital for maintaining good health. Our initiative focuses on providing communities with reliable sources of clean water, reducing the risk of waterborne diseases, and promoting overall well-being. With your support, we aim to make clean water accessible to every individual, improving their quality of life and safeguarding their health for generations to come.",
+    "amount": 145
+  },
+  {
+    "id": 2,
+    "picture": "https://i.ibb.co/rvSsMJh/01-Group-Photo-Manisha-and-team.jpg",
+    "title": "Secure Protein For Children",
+    "category": "Food",
+    "category_bg": "#FFC300",
+    "card_bg": "#F2EFEF",
+    "text_color": "#8A6D3B",
+    "description": "Proper nutrition is essential for the growth and development of children. Our mission is to secure a steady supply of high-quality protein-rich foods for underprivileged children. We believe that every child deserves access to nourishing meals that support their physical and cognitive development. By partnering with us, you contribute to providing these essential nutrients, ensuring that no child goes to bed hungry, and helping them thrive in their formative years. Together, we can make a positive impact on the future of our children.",
+    "amount": 290
+  },
+  {
+    "id": 3,
+    "picture": "https://i.ibb.co/80hbTjL/2000-621e039426.jpg",
+    "title": "Warmth Through Every Season",
+    "category": "Clothing",
+    "category_bg": "#3D9BF2",
+    "card_bg": "#EFEFF2",
+    "text_color": "#1E407C",
+    "description": "Clothing is more than just fabric; it provides warmth, comfort, and dignity. Our organization is dedicated to ensuring that individuals have access to clothing that keeps them comfortable through every season. Your support helps us provide essential clothing items to those in need, giving them the warmth and protection they deserve. Join us in our mission to make a meaningful difference in the lives of people, one garment at a time.",
+    "amount": 190
+  },
+  {
+    "id": 4,
+    "picture": "https://i.ibb.co/MVmZGR1/4.jpg",
+    "title": "Quality Education for All",
+    "category": "Education",
+    "category_bg": "#31A24C",
+    "card_bg": "#EFF2EF",
+    "text_color": "#0A662A",
+    "description": "Education is the key to unlocking opportunities and building a brighter future. Our organization is committed to providing quality education to all, regardless of their background or circumstances. By supporting us, you contribute to empowering individuals with knowledge and skills that can transform their lives. Together, we can create a world where education is a fundamental right and a pathway to success for everyone.",
+    "amount": 90
+  },
+  {
+    "id": 5,
+    "picture": "https://i.ibb.co/qCd1XFX/pic5.jpg",
+    "title": "Promoting Healthy Living",
+    "category": "Health",
+    "category_bg": "#FF5733",
+    "card_bg": "#EFEFEF",
+    "text_color": "#333333",
+    "description": "A healthy lifestyle is essential for well-being. Our organization is dedicated to promoting healthy living by providing access to fitness programs, nutritious meals, and healthcare services. We believe that everyone deserves the opportunity to lead a healthy life, free from preventable illnesses. Join us in our mission to create a healthier community and empower individuals to make positive choices for their health.",
+    "amount": 50
+  },
+  {
+    "id": 6,
+    "picture": "https://i.ibb.co/wYbMCgV/banner6.jpg",
+    "title": "Nutritious Meals for Families",
+    "category": "Food",
+    "category_bg": "#FFC300",
+    "card_bg": "#F2EFEF",
+    "text_color": "#8A6D3B",
+    "description": "Families should never have to worry about putting food on the table. Our initiative focuses on providing nutritious meals to families facing food insecurity. By supporting us, you ensure that parents can provide for their children, and no one has to go to bed hungry. Join us in the fight against hunger and make a difference in the lives of those in need.",
+    "amount": 290
+  },
+  {
+    "id": 7,
+    "picture": "https://i.ibb.co/tmCTHDQ/class7-for-Web.jpg",
+    "title": "Threads of Hope",
+    "category": "Clothing",
+    "category_bg": "#3D9BF2",
+    "card_bg": "#EFEFF2",
+    "text_color": "#1E407C",
+    "description": "Join our Threads of Hope campaign and make a difference in the lives of those in need. Donate your gently worn clothing items to provide warmth and comfort to individuals and families facing difficult circumstances. Your contributions will be distributed to local shelters and communities, helping people stay clothed during challenging times. Together, we can weave a stronger fabric of support and compassion. Be a part of Threads of Hope and help us dress our community with kindness and care.",
+    "amount": 130
+  },
+  {
+    "id": 8,
+    "picture": "https://example.com/pic8.jpg",
+    "title": "Empowering Minds Through Education",
+    "category": "Education",
+    "category_bg": "#31A24C",
+    "card_bg": "#EFF2EF",
+    "text_color": "#0A662A",
+    "description": "Education has the power to transform lives and communities. Our organization is committed to empowering minds through education by providing scholarships, educational resources, and mentorship programs. With your support, we can give individuals the tools they need to reach their full potential and contribute to a brighter future. Join us in our mission to unlock the potential of every learner.",
+    "amount": 120
+  },
+  {
+    "id": 9,
+    "picture": "https://i.ibb.co/Y32NWsQ/bangladesh-exr-picsay.jpg",
+    "title": "Community Health Initiatives",
+    "category": "Health",
+    "category_bg": "#FF5733",
+    "card_bg": "#EFEFEF",
+    "text_color": "#333333",
+    "description": "A healthy community is built on the foundation of well-being. Our organization is dedicated to community health initiatives, offering preventive healthcare services, health education, and support for underserved populations. By joining us, you become part of a movement to create healthier and more resilient communities for everyone to thrive.",
+    "amount": 90
+  },
+  {
+    "id": 10,
+    "picture": "https://i.ibb.co/8DdgS6d/Anne-Corcoran-holds-up.jpg",
+    "title": "Sustainable Food Solutions",
+    "category": "Food",
+    "category_bg": "#FFC300",
+    "card_bg": "#F2EFEF",
+    "text_color": "#8A6D3B",
+    "description": "Sustainability is key to ensuring a continuous supply of food for all. Our initiative focuses on promoting sustainable food solutions, including community gardens, food recycling programs, and local sourcing. By supporting us, you contribute to a more sustainable future where access to nutritious food is a reality for everyone.",
+    "amount": 220
+  },
+  {
+    "id": 11,
+    "picture": "https://i.ibb.co/mcGf8z5/CTY-COATS10-3-picsay.jpg",
+    "title": "Clothing for Every Season",
+    "category": "Clothing",
+    "category_bg": "#3D9BF2",
+    "card_bg": "#EFEFF2",
+    "text_color": "#1E407C",
+    "description": "Seasonal changes should never mean discomfort. Our organization is dedicated to providing clothing suitable for every season. Your support helps us provide warm clothing in winter and light, breathable fabrics in summer. Join us in our mission to ensure that individuals have the appropriate clothing for every season, regardless of their circumstances.",
+    "amount": 110
+  },
+  {
+    "id": 12,
+    "picture": "https://i.ibb.co/G3q9y1W/Adobe-Stock-52125430-1-660x400-2x.jpg",
+    "title": "Empowering Through Education",
+    "category": "Education",
+    "category_bg": "#31A24C",
+    "card_bg": "#EFF2EF",
+    "text_color": "#0A662A",
+    "description": "Education is the cornerstone of empowerment. Our organization is dedicated to empowering individuals through education, providing scholarships, mentoring, and skills development programs. With your support, we can break down barriers to education and empower individuals to take control of their futures. Join us in our mission to unleash the potential within every person.",
+    "amount": 150
+  }
+]
